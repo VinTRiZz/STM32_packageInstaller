@@ -1,10 +1,12 @@
 # Linux STM32 Firmware Package Installer
 Small easy script to install firmware package for STM32 using GitHub archives. 
 
-# Usage
+# Setup
 cd /path/to/downloaded/script
+
 chmod +x ./STM32_packageInstaller
 
+# Usage
 Open STM32CubeMX or STM32CubeIDE and try to download package. It will ask you for needed family and version. Remeber this info.
 
 Run script:
